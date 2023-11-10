@@ -9,3 +9,4 @@ TCL TV Kernel OpenSource
 | a311d2 | 商显V60Pro | Android R | 5.4.125 | | [a311d2](https://github.com/TCLOpenSource/a311d2) |
 | mt9653 | C11G、C78G、C12G、X11G、Q10G、Q10G PRO、R675C、T7G | Android R | 5.4.190 | | [mt9653](https://github.com/TCLOpenSource/mt9653) |
 | tc8000 | P12G系列: P12G/J9H/V89H/T8EMAX+, V8E(ODF派生机: J7EPRO/V69H), S11: /V68E/V6D/J7E/N7E/V69E, V6EA, 85Q6H, 85Q6G, 85V8E, S11G, P11, S365C, S12, S12G, S12PRO, V68EPRO, 85S365C, 86Q6G, 85V68EPRO, T8GMAX, V8EPRO, V8GMAX, S11H, S12H, P11H, 乐华K73PRO, U3A | Android R | 5.15.78 | | [tc8000](https://github.com/TCLOpenSource/tc8000) |
+| rt2875p | S450G/Q650G/S470G/Q670G | Android S | 5.4 | | [rt2875p](https://github.com/TCLOpenSource/rt2875p) |
