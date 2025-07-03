@@ -14,3 +14,4 @@ TCL TV Kernel OpenSource
 | 商显T982 | IFP65X61M/IFP75X61M/IFP86X61M/IFP65X60M/IFP75X60M/IFP86X60M | Android T | 5.15.78 | | [T982](https://github.com/TCLOpenSource/T982) |
 | mt9221U | 32H45, 32R45, 32S42, 32S4K, 32S4K, 32S55, 32S59K, 32S5K, 32V5C, 40H55, 40R45, 40S55, 40S59K, 40S5K, 40V5C, 43H55, 43R45, 43S42, 43S55, 43S59K, 43S5K, R32GL100, R40GL100, R43GL100 | Android U | 5.15.144 | | [mt9221U](https://github.com/TCLOpenSource/mt9221U) |
 | mt9655 | Q9L, T7L, Q10L, C12K, Q10LPro, R675C, S595C PRO, R695C, R795C | Android U | 5.15.148 | | [mt9655](https://github.com/TCLOpenSource/mt9655) |
+| rt2881 | 55P8K, 65P8K, 75P8K, 85P8K | Android U | 5.15.176 | | [rt2881](https://github.com/TCLOpenSource/rt2881) |
